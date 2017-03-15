@@ -1,7 +1,7 @@
-# babylon-voxel-snow
+# Babylon Voxel Snow
 Voxel snow for Babylon.js
 
-> Let it snow in [babylon.js](https://github.com/BabylonJS/Babylon.js).
+> Let it snow in [Babylon.js](https://github.com/BabylonJS/Babylon.js).
 
 ## Example
 
@@ -39,7 +39,7 @@ Later you can access the Babylon particle system directly:
 snow.get_particle_system();
 ```
 
-## Example
+## Run the Example
 
 1. `git clone git://github.com/Nesh108/babylon-voxel-snow && cd babylon-voxel-snow`
 1. `npm install`
