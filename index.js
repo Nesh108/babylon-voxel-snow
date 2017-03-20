@@ -73,4 +73,4 @@ Snow.prototype.stop = function() {
 
 Snow.prototype.get_particle_system = function() {
   return this.snow_system;
-}
+};
