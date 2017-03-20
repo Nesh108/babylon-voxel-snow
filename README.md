@@ -3,6 +3,8 @@ Voxel snow for Babylon.js
 
 > Let it snow in [Babylon.js](https://github.com/BabylonJS/Babylon.js).
 
+> Best when used with [Noa-Engine](https://github.com/andyhall/noa).
+
 ## Example
 
 ```js
